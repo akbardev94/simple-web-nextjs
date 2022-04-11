@@ -1,0 +1,15 @@
+.title {
+  color: red;
+}
+
+.heroImage {
+  display: flex;
+  justify-content: flex-end;
+  float: right;
+  margin-top: 5%;
+  margin-right: 10%;
+  width: 700px;
+  height: 600px;
+}
+
+
